@@ -2,7 +2,7 @@ theme: just-the-docs
 title: Fintry Energy Decision Framework
 description: Short project subtitle
 
-navigation:
+nav:
   - title: Home
     url: /
 
