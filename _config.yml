@@ -1,3 +1,22 @@
 theme: jekyll-theme-cayman
 title: Fintry Energy Decision Framework
 description: Short project subtitle
+
+navigation:
+  - title: Home
+    url: /
+
+  - title: Methodology
+    url: /methodology/
+
+  - title: Case Study
+    url: /case-study.html
+
+  - title: Modeling
+    url: /modeling/
+
+  - title: Conclusions
+    url: /conclusions/
+
+  - title: Team
+    url: /team.html
