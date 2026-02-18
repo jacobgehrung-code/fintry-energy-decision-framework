@@ -1,6 +1,6 @@
-# Project Title
+# Fintry Energy Decision Framework
 
-**MSc Mechanical Engineering – [University Name]**
+**Sub Heading**
 
 ## Introduction
 This project investigates [...]
