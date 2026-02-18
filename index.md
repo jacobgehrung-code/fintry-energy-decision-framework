@@ -1,11 +1,24 @@
-# Project Overview
+# Project Title
 
-This website presents our research on [topic].
+**MSc Mechanical Engineering – [University Name]**
 
-## Objectives
-- Objective 1
-- Objective 2
+## Introduction
+This project investigates [...]
+The work was undertaken by [...]
+The study site is located in [...]
 
-## Methods
-Describe your modeling approach here.
+![Team Photo](assets/figures/team.jpg)
+![Site Photo](assets/figures/site.jpg)
 
+## Context and Motivation
+Buildings account for [...]
+Rural communities face [...]
+
+## Project Aims
+- Develop a data-driven methodology using publicly available data
+- Identify high-impact building archetypes
+- Support evidence-based retrofit decision-making
+
+## References
+1. Author et al. (Year)
+2. Author et al. (Year)
