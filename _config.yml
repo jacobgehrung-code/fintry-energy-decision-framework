@@ -4,22 +4,19 @@ description: Short project subtitle
 
 just_the_docs:
   top_navigation: true
+  # optional: enable side navigation as well
+  sidebar_navigation: true
 
 nav:
   - title: Home
     url: /
-
   - title: Methodology
     url: /methodology/
-
   - title: Case Study
     url: /case-study/
-
   - title: Modeling
     url: /modeling/
-
   - title: Conclusions
     url: /conclusions/
-
   - title: Team
     url: /team/
