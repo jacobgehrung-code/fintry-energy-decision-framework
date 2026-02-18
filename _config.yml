@@ -10,7 +10,7 @@ navigation:
     url: /methodology/
 
   - title: Case Study
-    url: /case-study.html
+    url: /case-study/
 
   - title: Modeling
     url: /modeling/
@@ -19,4 +19,4 @@ navigation:
     url: /conclusions/
 
   - title: Team
-    url: /team.html
+    url: /team/
