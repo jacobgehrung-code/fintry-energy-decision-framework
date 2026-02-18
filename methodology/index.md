@@ -1,3 +1,7 @@
-# Methodology Overview
+---
+title: Methodology
+---
+# Methodology
 
-This section describes the project methodology.
+Here’s your methodology content...
+
