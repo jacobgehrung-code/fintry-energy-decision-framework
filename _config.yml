@@ -1,10 +1,13 @@
+title: "Fintry Energy Decision Framework"
+description: "Short project subtitle"
 theme: just-the-docs
-title: Fintry Energy Decision Framework
-description: Short project subtitle
 
+# Enable top navigation
 just_the_docs:
   top_navigation: true
+  homepage: index
 
+# Navigation links
 nav:
   - title: Home
     url: /
