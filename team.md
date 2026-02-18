@@ -1,4 +1,7 @@
-# Our Team
+---
+title: Team
+---
+# Team
 
 Jake Gehrung
 
