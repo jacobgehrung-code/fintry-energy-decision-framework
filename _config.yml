@@ -1,13 +1,8 @@
-theme: just-the-docs
+theme: jekyll-theme-minimal
 title: Fintry Energy Decision Framework
 description: Short project subtitle
 
-just_the_docs:
-  top_navigation: true
-  # optional: enable side navigation as well
-  sidebar_navigation: true
-
-nav:
+top_navigation:
   - title: Home
     url: /
   - title: Methodology
